@@ -9,8 +9,7 @@
     <div align="center"><h1>최유빈입니긔</h1></div>
     <ul>
       <li>서울로봇고등학교 프로그래밍 동아리 SPAM 부원</li>
-      <li>
-        <a href="https://github.com/SRHS-SPAM">! SPAM 웹프로젝트 진행중 !</a>
+      <li>asdf</li>
     </ul>
     <div align="center"><h1>STACK</h1></div>
     <div align="center">
@@ -33,9 +32,18 @@
       <img
         src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"
+      />
       <br />
       <img
         src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/java-CB3837?style=flat-square&logo=java&logoColor=white"
       />
       <br />
       <img
