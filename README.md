@@ -74,11 +74,8 @@
     <div align="center"><h1>Projects</h1></div>
         <div align="center">
             <a href="https://chiicawa.newbin.me">먼작귀 소개 사이트</a>
-<<<<<<< HEAD
             <br/>
             <a href="https://notion.newbin.me">Newbin-Notion</a>
-=======
->>>>>>> 5608d55df9a2894d910dbaa336cf10c189249052
         </div>
   </body>
 </html>
