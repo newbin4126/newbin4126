@@ -71,5 +71,11 @@
         src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"
       />
     </div>
+    <div align="center"><h1>Projects</h1></div>
+        <div align="center">
+            <a href="https://chiicawa.newbin.me">먼작귀 소개 사이트</a>
+            <br/>
+            <a href="https://notion.newbin.me">Newbin-Notion</a>
+        </div>
   </body>
 </html>
