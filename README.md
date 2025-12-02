@@ -9,7 +9,7 @@
     <div align="center"><h1>최유빈임니다</h1></div>
     <ul>
       <li>서울로봇고등학교 프로그래밍 동아리 SPAM 부원</li>
-      <li>asdf</li>
+      <li>Front-end 공부중..</li>
     </ul>
     <div align="center"><h1>STACK</h1></div>
     <div align="center">
