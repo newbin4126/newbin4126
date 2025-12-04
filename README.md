@@ -7,7 +7,7 @@
   </head>
   <body>
  
-    </ul>
+    
     <div align="center"><h1>STACK</h1></div>
     <div align="center">
       <img
@@ -74,5 +74,6 @@
             <br/>
             <a href="https://notion.newbin.me">Newbin-Notion</a>
         </div>
+
   </body>
 </html>
